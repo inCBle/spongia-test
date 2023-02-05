@@ -1,0 +1,12 @@
+{
+  "name": "@spongia-test/pkg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "father-build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
